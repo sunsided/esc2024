@@ -3,6 +3,12 @@
 For no other reason than curiosity itself, here's the point and ranking data
 per country, juror and televotes.
 
+The data was obtained from the ESC 2024's Grand Final results [website](https://eurovision.tv/event/malmo-2024/grand-final/results/). See [`esc2024-DetailedPoints.csv`] for a starting point.
+
+[`esc2024-DetailedPoints.csv`]: esc2024-DetailedPoints.csv
+
+## Motivation
+
 After it was reported that the votes exhibited some odd behavior, such as some
 countries obtaining an exceedingly high amount of televoting points while
 having zero juror points, I figured it's interesting to have a peek at the data.
