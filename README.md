@@ -15,3 +15,14 @@ having zero juror points, I figured it's interesting to have a peek at the data.
 
 At the very least, this might be a simple dataset for others to toy around with.
 
+## Point Voting
+
+The top 10 candidates per country will be awarded 1-8, 10 and 12 points, with
+12 points being the best ranking. All other candidates (non-top-10) will
+be awarded zero points.
+
+See [Voting Procedures of 2024].
+
+[Voting Procedures of 2024]: https://eurovision.tv/about/voting-malmo-2024
+
+
